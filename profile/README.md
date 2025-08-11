@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 📫 How to reach me? just cleck [here](http://en.gravatar.com/zuhaarman)
 
 <!---
-This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+zuhaarman/.github a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 You can click the Preview link to take a look at my changes.
 --->
 ## 🚀 About Me
